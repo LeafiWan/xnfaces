@@ -6,7 +6,7 @@
 在终端执行以下命令：
 
     $ cd ~ 
-    $ git clone git@bitbucket.org:psjay/xnfaces.git  
+    $ git clone git@github.com:psjay/xnfaces.git
     $ cd xnfaces
     $ python bootstrap.py 
     $ bin/buildout 
