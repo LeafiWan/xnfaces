@@ -19,8 +19,8 @@
 
 Happy hacking!
 
-## Trouble Shooting
+## TroubleShooting
 
-1. **Mac OS X 下，编译 gevent 出错。**
+**Mac OS X 下，编译 gevent 出错。**
 
 先安装 libevent: `$ brew install libevent`.
