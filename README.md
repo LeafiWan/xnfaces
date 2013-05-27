@@ -18,3 +18,9 @@
 用浏览器打开 `http://127.0.0.1:5000` 看看效果吧~
 
 Happy hacking!
+
+## Trouble Shooting
+
+1. **Mac OS X 下，编译 gevent 出错。**
+
+先安装 libevent: `$ brew install libevent`.
